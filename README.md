@@ -1,1 +1,1 @@
-# HelloGit - Santiago Herraiz Huarte
+# HelloGit - Santiago Herraiz
